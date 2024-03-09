@@ -36,6 +36,7 @@ class _ApiPracState extends State<ApiPrac> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.black12,
       body: Center(),
     );
   }
